@@ -2,3 +2,8 @@
 
 s = 10
 print (s)
+
+def func():
+  return s
+
+
