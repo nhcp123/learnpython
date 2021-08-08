@@ -6,4 +6,7 @@ print (s)
 def func():
   return s
 
+func()
+
+
 
